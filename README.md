@@ -1,4 +1,4 @@
-# Embedded-Systems-Advanced-Calculator-
+# Embedded-Systems-Advanced-Calculator
 Embedded Systems Advanced Calculator tm4c123gh6pm
 Features
 In this project you will have 3 main Modes. You will need to have a keypad for all number inputs. You will need a push button to switch between these 3 modes. You are free if you need to add more push buttons.
